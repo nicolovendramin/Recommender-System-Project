@@ -1,0 +1,4 @@
+TEST SESSION.Hold out percentage : 80 %
+k : 120
+recommendations per user : 5
+Weights in the estimated ratings follow the policy : mar

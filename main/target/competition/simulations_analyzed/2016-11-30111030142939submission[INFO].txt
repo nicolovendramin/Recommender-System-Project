@@ -1,0 +1,7 @@
+TEST SESSION.Hold out percentage : 80 %
+k : 120
+recommendations per user : 5
+Weights in the estimated ratings follow the policy : constant
+Ratings are considered with the following policy : max
+Normalization active
+The map estimated was-->MAP@5: 0.00836946560847

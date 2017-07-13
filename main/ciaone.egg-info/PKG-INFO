@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: ciaone
+Version: 0.2.0
+Summary: ok
+Home-page: UNKNOWN
+Author: Nico
+Author-email: nicolo.vendramin@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Cython
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

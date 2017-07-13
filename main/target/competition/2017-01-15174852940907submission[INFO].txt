@@ -1,0 +1,14 @@
+TEST SESSION. Hold out percentage : 80 %
+k : 130
+Technique : Content Based User Filtering
+recommendations per user : 5
+Weights in the estimated ratings follow the policy : man
+Shrink factor : 8
+Ratings are considered with the following policy : boolean
+Normalization active
+User bias subtraction active
+Item bias subtraction active
+Estimated ratings are given using the biased urm
+Parallelization is performed using 1 processors
+
+Estimated map@5: 0.00917994973545

@@ -1,0 +1,8 @@
+TEST SESSION. Hold out percentage : 80 %
+k : 140
+recommendations per user : 5
+Weights in the estimated ratings follow the policy : mar
+Shrink factor : 8Ratings are considered with the following policy : boolean
+Normalization active
+Parallelization is performed using 2 processors
+The map estimated was-->MAP@5: 0.0084219047619

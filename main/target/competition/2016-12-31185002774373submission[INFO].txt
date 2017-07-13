@@ -1,0 +1,12 @@
+TEST SESSION. Hold out percentage : 0 %
+k : 120
+Technique : User Based Collaborative Filtering
+recommendations per user : 15
+Weights in the estimated ratings follow the policy : man
+Shrink factor : 8
+Ratings are considered with the following policy : boolean
+Normalization active
+User bias subtraction active
+Item bias subtraction active
+Estimated ratings are given using the biased urm
+Parallelization is performed using 1 processors
